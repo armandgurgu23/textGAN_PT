@@ -4,4 +4,3 @@ matplotlib
 nltk
 yacs
 ipython
-__pycache__

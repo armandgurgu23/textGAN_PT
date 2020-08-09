@@ -1,2 +1,8 @@
 dataset:
-  path: '/Users/armandgurgu/Documents/side_projects/datasets/textGAN/data.p'
+  path: '/u/agurgu/side_projects/2020/textGAN/data/datasets'
+  dataset_name: 'data.p'
+  cache_tokens: '/u/agurgu/side_projects/2020/textGAN/data/datasets'
+  compute_tokens: False
+  processed_dataset:
+    token_threshold: 2
+    generate_processed_dataset: True
